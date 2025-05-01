@@ -70,7 +70,7 @@
 
 - 📧 **Email:** hassanomar7674@gmail.com  
 - 📞 **Phone:** +92 324 7305 909  
-- 💼 **LinkedIn:** [linkedin.com/in/ranamoaztariq](https://www.linkedin.com/in/ranamoaztariq/)  
+- 💼 **LinkedIn:** [linkedin.com/in/ranamoaztariq](https://www.linkedin.com/in//)  
 - 💻 **GitHub:** [Hassan-Omar03](https://github.com/Hassan-Omar03)  
 - 🌐 **Portfolio:** (Coming Soon)
 
